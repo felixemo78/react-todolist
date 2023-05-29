@@ -1,0 +1,32 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+input {
+  padding: 10px;
+  margin: 15px;
+  text-align: center;
+}
+
+#btnAdd {
+  background-color: brown;
+}
+#btnAdd:hover {
+  background-color: rgb(48, 46, 45);
+} 
+
+ul {
+  list-style-type: none;
+  margin-right: 85px;
+}
+li {
+  margin: 12px 0;
+}
+
+#btnDelete {
+  cursor: pointer;
+  margin-left: 15px;
+}
